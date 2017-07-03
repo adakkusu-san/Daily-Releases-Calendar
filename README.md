@@ -1,6 +1,7 @@
 # cwdpclndr
 
-### July 2017
+## 2017
+### July
 
 |S|M|T|W|T|F|S|
 -:|-:|-:|-:|-:|-:|-:
@@ -11,7 +12,7 @@
 23|24|25|26|27|28|29
 30|31|
 
-### June 2017
+### June
 
 |S|M|T|W|T|F|S|
 -|-|-|-|-|-|-
@@ -21,7 +22,7 @@
 [18](http://redd.it/6i1vu6)|[19](http://redd.it/6ia9qt)|[20](http://redd.it/6ihge6)|[21](http://redd.it/6iobyo)|[22](http://redd.it/6ixmzi)|[23](http://redd.it/6j2iwi)|[24](http://redd.it/6j8oyy)
 [25](http://redd.it/6jhej0)|[26](http://redd.it/6jmqxw)|[27](http://redd.it/6jw3md)|[28](http://redd.it/6k3yeh)|[29](http://redd.it/6k98pi)|[30](http://redd.it/6kj3an)|
 
-### May 2017
+### May
 
 |S|M|T|W|T|F|S|
 -|-|-|-|-|-|-
@@ -32,7 +33,6 @@
 29|30|[31](http://redd.it/6ehe4w)|||||
 
 ###### […]
-
 #### Note
 At the moment, thanks /u/Veakon for dedicating some of their time for making these daily posts.
 
