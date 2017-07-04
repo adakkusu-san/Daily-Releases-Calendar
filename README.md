@@ -6,7 +6,7 @@
 |S|M|T|W|T|F|S|
 -:|-:|-:|-:|-:|-:|-:
 |||||||[1](http://redd.it/6kphg3)
-[2](http://redd.it/6kvlrl)|3|4|5|6|7|8
+[2](http://redd.it/6kvlrl)|[3](http://redd.it/6l2qhl)|4|5|6|7|8
 9|10|11|12|13|14|15
 16|17|18|19|20|21|22
 23|24|25|26|27|28|29
@@ -15,7 +15,7 @@
 ### June
 
 |S|M|T|W|T|F|S|
--|-|-|-|-|-|-
+-:|-:|-:|-:|-:|-:|-:
 ||||||[1](http://redd.it/6eqrvo)|[2](http://redd.it/6ewi7s)|[3](http://redd.it/6f3cl0)
 [4](http://redd.it/6f7i0e)|[5](http://redd.it/6fhd82)|[6](http://redd.it/6fp2s6)|[7](http://redd.it/6fvw5g)|[8](http://redd.it/6g309k)|[9](http://redd.it/6gae56)|[10](http://redd.it/6ggkb0)
 [11](http://redd.it/6gowx6)|[12](http://redd.it/6gtfoq)|[13](http://redd.it/6h2mv4)|[14](http://redd.it/6h9zd5)|[15](http://redd.it/6hghh3)|[16](http://redd.it/6houli)|[17](http://redd.it/6hwgq9)
@@ -25,7 +25,7 @@
 ### May
 
 |S|M|T|W|T|F|S|
--|-|-|-|-|-|-
+-:|-:|-:|-:|-:|-:|-:
 ||1|2|3|4|5|6|7
 8|9|10|11|12|13|14
 15|16|17|18|19|20|21
