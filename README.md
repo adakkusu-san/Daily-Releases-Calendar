@@ -1,4 +1,4 @@
-# cwdpclndr
+# DailyReleasesCalendar
 
 ## 2017
 ### July
