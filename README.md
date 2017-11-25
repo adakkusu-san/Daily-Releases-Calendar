@@ -1,3 +1,7 @@
+**!** Go to [BeastMan95's fork of this rep](http://github.com/Beastman95/Daily-Releases-Calendar/) instead **!**
+
+As you might see, I haven't updated this for quite a while (no time), and I don't think I will continue to. I will maybe help out the other person, but not more than that.
+
 # DailyReleasesCalendar
 
 ## 2017
