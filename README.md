@@ -1,73 +1,11 @@
-**!** Go to [BeastMan95's fork of this rep](http://github.com/Beastman95/Daily-Releases-Calendar/) instead **!**
+**!** Go to [beastman95's fork of this rep](http://github.com/Beastman95/Daily-Releases-Calendar/) instead **!**
 
 As you might see, I haven't updated this for quite a while (no time), and I don't think I will continue to. I will maybe help out the other person, but not more than that.
 
 # DailyReleasesCalendar
 
-## 2017
-
-### September
-|S|M|T|W|T|F|S|
--:|-:|-:|-:|-:|-:|-:
-||||||[1](http://redd.it/6xix5k)|[2](http://redd.it/6xphaa)|
-[3](http://redd.it/6xvrkg)|4|5|6|7|8|9|
-10|11|12|13|14|15|16
-17|18|19|20|21|22|23
-24|25|26|27|28|29|30
-
-
-### August
-
-|S|M|T|W|T|F|S|
--:|-:|-:|-:|-:|-:|-:
-|||[1](http://redd.it/6qzjyg)|[2](http://redd.it/6r7uuk)|[3](http://redd.it/6rg5if)|[4](http://redd.it/6rnoon)|[5](http://redd.it/6rv35j)
-[6](http://redd.it/6rzxfd)|[7](http://redd.it/6s8amw)|[8](http://redd.it/6sh8cn)|[9](http://redd.it/6sowdb)|[10](http://redd.it/6sw4g7)|[11](http://redd.it/6t2lpx)|[12](http://redd.it/6tc9lf)
-[13](http://redd.it/6tgmrf)|[14](http://redd.it/6tpc39)|[15](http://redd.it/6u34gf)|[16](http://redd.it/6udhxv)|[17](http://redd.it/6udhxv)|[18](http://redd.it/6ul3fg)|[19](http://redd.it/6urf3p)
-[20](http://redd.it/6ux4v0)|[21](http://redd.it/6v78wx)|[22](http://redd.it/6vcwy9)|[23](http://redd.it/6vm6l0)|[24](http://redd.it/6vv5nx)|[25](http://redd.it/6w1wtt)|[26](http://redd.it/6w87sr)
-[27](http://redd.it/6wdl38)|[28](http://redd.it/6wmelx)|[29](http://redd.it/6wuhql)|[30](http://redd.it/6x2x6l)|[31](http://redd.it/6xix5k)
-
-### July
-|S|M|T|W|T|F|S|
--:|-:|-:|-:|-:|-:|-:
-|||||||[1](http://redd.it/6kphg3)
-[2](http://redd.it/6kvlrl)|[3](http://redd.it/6l2qhl)|[4](http://redd.it/6l9uoa)|[5](http://redd.it/6lhdb8)|[6](http://redd.it/6lqypi)|[7](http://redd.it/6lxz4a)|[8](http://redd.it/6m4e4l)
-[9](http://redd.it/6makn9)|[10](http://redd.it/6mhidf)|[11](http://redd.it/6mptxy)|[12](http://redd.it/6mx8ff)|[13](http://redd.it/6n4ta9)|[14](http://redd.it/6nceak)|[15](http://redd.it/6nhul1)
-[16](http://redd.it/6nnxz8)|[17](http://redd.it/6nv7eg)|[18](http://redd.it/6o53o1)|[19](http://redd.it/6obulq)|[20](http://redd.it/6oiafg)|[21](http://redd.it/6org8w)|[22](http://redd.it/6oxntl)
-[23](http://redd.it/6p49il)|[24](http://redd.it/6paf0h)|[25](http://redd.it/6pjewo)|[26](http://redd.it/6prrf0)|[27](http://redd.it/6pyzou)|[28](http://redd.it/6q74yw)|[29](http://redd.it/6qc5bi)
-[30](http://redd.it/6qk3p5)|[31](http://redd.it/6qry54)
-
-### June
-
-|S|M|T|W|T|F|S|
--:|-:|-:|-:|-:|-:|-:
-|||||[1](http://redd.it/6eqrvo)|[2](http://redd.it/6ewi7s)|[3](http://redd.it/6f3cl0)
-[4](http://redd.it/6f7i0e)|[5](http://redd.it/6fhd82)|[6](http://redd.it/6fp2s6)|[7](http://redd.it/6fvw5g)|[8](http://redd.it/6g309k)|[9](http://redd.it/6gae56)|[10](http://redd.it/6ggkb0)
-[11](http://redd.it/6gowx6)|[12](http://redd.it/6gtfoq)|[13](http://redd.it/6h2mv4)|[14](http://redd.it/6h9zd5)|[15](http://redd.it/6hghh3)|[16](http://redd.it/6houli)|[17](http://redd.it/6hwgq9)
-[18](http://redd.it/6i1vu6)|[19](http://redd.it/6ia9qt)|[20](http://redd.it/6ihge6)|[21](http://redd.it/6iobyo)|[22](http://redd.it/6ixmzi)|[23](http://redd.it/6j2iwi)|[24](http://redd.it/6j8oyy)
-[25](http://redd.it/6jhej0)|[26](http://redd.it/6jmqxw)|[27](http://redd.it/6jw3md)|[28](http://redd.it/6k3yeh)|[29](http://redd.it/6k98pi)|[30](http://redd.it/6kj3an)
-
-### May
-
-|S|M|T|W|T|F|S|
--:|-:|-:|-:|-:|-:|-:
-||[1](http://redd.it/68ospi)|[2](http://redd.it/68vw4e)|[3](http://redd.it/694dcd)|[4](http://redd.it/69avds)|[5](http://redd.it/69gykb)|[6](http://redd.it/69tp4q)
-[7](http://redd.it/69tp4q)|[8](http://redd.it/6a1fwq)|[9](http://redd.it/6a8e6i)|[10](http://redd.it/6aglhj)|[11](http://redd.it/6ant0r)|[12](http://redd.it/6atvxa)|[13](http://redd.it/6b0aea)
-[14](http://redd.it/6b5uh2)|[15](http://redd.it/6be1ia)|[16](http://redd.it/6bl17h)|[17](http://redd.it/6bs598)|[18](http://redd.it/6bywvy)|[19](http://redd.it/6c70di)|[20](http://redd.it/6cgth8)
-[21](http://redd.it/6cgth8)|[22](http://redd.it/6cq0ye)|[23](http://redd.it/6cx81s)|[24](http://redd.it/6d5p2m)|[25](http://redd.it/6ddht0)|[26](http://redd.it/6dkxc6)|[27](http://redd.it/6dqbsm)
-[28](http://redd.it/6dveis)|[29](http://redd.it/6e1ene)|[30](http://redd.it/6ea17k)|[31](http://redd.it/6ehe4w)
-
-### April
-
-|S|M|T|W|T|F|S|
--:|-:|-:|-:|-:|-:|-:
-|||||||1
-2|3|4|5|6|7|8
-9|10|11|12|13|14|15
-16|17|18|19|20|21|22
-23|24|25|26|27|28|29
-30
-
 ###### […]
+
 #### Note
 At the moment, thanks /u/Veakon for dedicating some of their time for making these daily posts.
 
